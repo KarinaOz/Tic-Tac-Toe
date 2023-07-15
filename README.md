@@ -13,3 +13,6 @@ This is a simple Python script for playing the game of Tic-Tac-Toe.
 
 
 ![Tic Tac Toe 1](https://github.com/KarinaOz/Tic-Tac-Toe/assets/121657290/afc7d718-9346-471b-a417-9a33cb5e7787)
+
+![Tic Tac Toe 2](https://github.com/KarinaOz/Tic-Tac-Toe/assets/121657290/014c2cfd-a6c8-41b6-ba47-a0b1b6b9d813)
+
